@@ -1,0 +1,36 @@
+ .container h1{ 
+    font-size: 20px;
+}
+.container{
+      margin-right: 15px; 
+      margin-left: 15px;
+     padding: 10px; 
+     width: 100%;  
+     margin-top: 150px;
+}
+.right{
+    display: flex;
+    flex-wrap: wrap;
+    right: 0px;
+    top: 10px;
+    left: 90%;
+    font-size: 10px;
+    margin-bottom: 6px;
+    padding: 1px;
+}
+.mid{
+    display: flex;
+    flex-direction: wrap;
+    font-size: 13px;
+    text-align: center;
+    align-items: center;
+}
+.left img{
+    width: 70px;
+}
+.formgroup input{
+    width: 70%;
+}
+body{
+    background-image: url('bb.jpg');
+}
